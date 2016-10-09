@@ -1,0 +1,6 @@
+{
+  "name": "Hadoop examples",
+  "tagline": "Some example problems in hadoop",
+  "body": "# hadoop_examples\r\nSome coding problems in hadoop\r\n\r\nPerformed data analysis on Google’s 1-gram data, using MapReduce paradigm in both Hadoop and Spark.\r\n\r\nPerformed data analysis on Wikipedia Data, using MapReduce paradigm in both Hadoop and Spark.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
